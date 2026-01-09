@@ -1,0 +1,4 @@
+timestamp,user_id,name,face_score,pin_score,decision,reason
+2026-01-04T15:47:59.044380,1,AbdulBasit,0.0,0.0,DENIED,Insufficient evidence
+2026-01-04T15:48:27.793952,1,AbdulBasit,26.47466498995898,0.0,DENIED,Insufficient evidence
+2026-01-08T18:23:14.441634,1,AbdulBasit,34.213699443902556,0.0,DENIED,Insufficient evidence
